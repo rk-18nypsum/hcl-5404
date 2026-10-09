@@ -21,13 +21,7 @@ package OOPs;
        }
     }
 
-    //Interfaces
-interface pay{
-        //functional interface- single abstract class
-     abstract payment(){
 
-        }
-    }
 
 
 
